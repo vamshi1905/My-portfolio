@@ -38,7 +38,7 @@ const projectsData = [
     description: "My Portfolio Website through which you can reach me",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/vamshi1905/My-portfolio",
     previewUrl: "/",
   },
   {
